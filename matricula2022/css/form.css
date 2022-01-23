@@ -1,0 +1,50 @@
+@charset "utf -8";
+
+form {
+    width: 500px;
+    margin: auto;
+     }
+
+input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+input:hover {
+    background-color: #dddddd;
+}
+
+input, select {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #04a486;
+}
+
+select {
+    border-width: 2px;
+}
+input.botao {
+    background-color: #04a486;
+    color:#fff;
+}
+legend {
+    color: #888888;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
+fieldset{
+    border-color: #cecece;
+    margin: 20px;
+    
+}
+
+label {
+    margin-bottom: 0px;
+}
+
+h3 {
+    color: black;
+}
+
